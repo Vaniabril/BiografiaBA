@@ -1,0 +1,15 @@
+*{
+background-color: rgb(111, 102, 190);
+color: beige;
+}
+.titulos{
+    color: gold;
+    font-style: oblique;
+    font-size: 30px;
+}
+#fotoppal{
+    text-align: center;
+}
+.parrafos{
+    font-size: 20px;
+}
